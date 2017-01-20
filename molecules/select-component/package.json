@@ -1,0 +1,13 @@
+{
+	"name": "Select component",
+    "version": "1.4.9",
+	"author": "Anders Pedersen <alp@pentia.dk>",
+    "keywords": [
+		"less",
+		"html",
+		"nj",
+		"ascx",
+		"cs"
+    ],
+	"licence": "All rights reserved",
+}

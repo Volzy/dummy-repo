@@ -1,0 +1,11 @@
+{
+	"name": "Checkbox component",
+    "version": "1.0.0",
+	"author": "Anders Pedersen <alp@pentia.dk>",
+    "keywords": [
+		"less",
+		"html",
+		"js"
+    ],
+	"licence": "All rights reserved",
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Radio component",
+    "version": "0.8.0",
+	"author": "Anders Pedersen <alp@pentia.dk>",
+    "keywords": [
+		"less",
+		"html"
+    ],
+	"licence": "All rights reserved",
+}
